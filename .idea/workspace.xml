@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54b34b48-a7e6-4493-a275-83a8809a55d0" name="Default Changelist" comment="">
+    <list default="true" id="54b34b48-a7e6-4493-a275-83a8809a55d0" name="Default Changelist" comment="day 1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/do-il.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hanabi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hawaii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/newyork.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/suda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/teiichi_no_kuni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tokyo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,17 +30,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YQVOJikTInr8k2k9iEshpaulN2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.histogram">
+    <configuration name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.histogram" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -69,13 +105,50 @@
       <option name="presentableId" value="Default" />
       <updated>1582874772581</updated>
     </task>
+    <task id="LOCAL-00001" summary="day 1">
+      <created>1582875544559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582875544559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2" timestamp="1582875642271">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582875642271" />
+    <state width="915" height="278" key="GridCell.Tab.0.bottom" timestamp="1582877136853">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="915" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582877136853" />
+    <state width="915" height="278" key="GridCell.Tab.0.center" timestamp="1582877136853">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="915" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582877136853" />
+    <state width="915" height="278" key="GridCell.Tab.0.left" timestamp="1582877136853">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="915" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582877136853" />
+    <state width="915" height="278" key="GridCell.Tab.0.right" timestamp="1582877136853">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="915" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582877136853" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1582874931846">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582874931846" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582875666797">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582875666797" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582874781145">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
