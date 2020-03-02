@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b34b48-a7e6-4493-a275-83a8809a55d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numpy/dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/basic_examples/cam_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/basic_examples/cv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/basic_examples/draw_figure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/basic_examples/image_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/basic_examples/video_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/video/naruto.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/video/suda.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/histogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/do-il.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/do-il.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hanabi.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/hanabi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hawaii.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/hawaii.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newyork.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/newyork.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/suda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/suda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/teiichi_no_kuni.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/teiichi_no_kuni.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tokyo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/img/tokyo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/numpy/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/array2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/numpy/array2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/array_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/numpy/array_block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/dimension.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/numpy/dimension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +56,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/basic_examples" />
       <recent name="$PROJECT_DIR$/numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dimension">
-    <configuration name="array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.draw_figure">
+    <configuration name="cam_input (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/basic_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy/array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/basic_examples/cam_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cam_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/video" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy/array2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_examples/cam_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array_block" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="draw_figure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/basic_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy/array_block.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/basic_examples/draw_figure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dimension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="image_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy/dimension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_examples/image_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="video_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_examples/video_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dimension" />
-        <item itemvalue="Python.array_block" />
-        <item itemvalue="Python.array2" />
-        <item itemvalue="Python.array" />
-        <item itemvalue="Python.histogram" />
+        <item itemvalue="Python.draw_figure" />
+        <item itemvalue="Python.cam_input (1)" />
+        <item itemvalue="Python.cam_input" />
+        <item itemvalue="Python.video_input" />
+        <item itemvalue="Python.image_input" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582883110901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day-1">
+      <created>1582883663466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582883663466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,34 +226,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="day-1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2" timestamp="1582883110845">
+    <state x="707" y="357" width="563" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583114968123">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883110845" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1582883394626">
+    <state x="707" y="357" width="563" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583114968123" />
+    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2" timestamp="1582883663400">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883394626" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1582883394625">
+    <state x="597" y="96" width="782" height="912" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883663400" />
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1583122389515">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883394625" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1582883394625">
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583122389515" />
+    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1583122389515">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883394625" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1582883394625">
+    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583122389515" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1583122389514">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883394625" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583122389514" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1583122389515">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583122389515" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1582874931846">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582874931846" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582883118551">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582883669800">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883118551" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1582883669800" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582874781145">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
